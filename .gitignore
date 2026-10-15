@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output unduhan berkas laporan keuangan
+downloads/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
